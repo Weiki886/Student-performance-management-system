@@ -129,11 +129,11 @@ typedef struct LNode {
 - 插入信息：
   ![Insert information](<Screenshot_of_running_results/3. 插入信息.png>)
 - 展示信息：
- ![Show information](<Screenshot_of_running_results/3.7. 展示信息.png>)
+ ![Show information](<Screenshot_of_running_results/3. 7. 展示信息.png>)
 
 4. 删除学生成绩信息：
 - 删除成功：
-  ![Delete successfully](<Screenshot_of_running_results/4. 删除信息.png>)
+  ![Delete successfully](<Screenshot_of_running_results/4. 删除成功.png>)
 - 删除失败：
   ![Delete failed](<Screenshot_of_running_results/4. 删除失败.png>)
 
